@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desemvolvimneto De Sites</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>A Mudança</h2>
+
+ <p><span class="thick">Marcos</span> <span class="c">nasceu</span> na pequena <span class="b">cidade</span> de <span class="thick">Yothuo</span> no <span class="thick">Japão</span>. Aos 15 anos se <span class="c">mudou</span> para o <span class="thick">Brasil</span> e começou a trabalhar com o pai em uma loja de brinquedos</p>
+
+
+    <h2>A chegada de Marcos</h2>
+<p>Fazia muito frio quando Marcos desceu do avião que o traria a um mundo totalmente desconhecido. Jamais pensara na possibilidade de vir para uma cidade tão <span class="b">grande</span> <span class="b">diferente</span>.</p>
+</body>
+</html>
